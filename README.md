@@ -27,7 +27,18 @@ To set up the project locally, follow these steps:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/Rahul9214/entertainix.git
+   
+2. **Navigate to the Project Directory**:
+   ```bash
+   cd entertainix
 
+3. **Install the necessary dependencies**:
+   ```bash
+   npm install
+
+4. **Start the development server**:
+   ```bash
+   npm run dev
 
    
 ## Live Demo
