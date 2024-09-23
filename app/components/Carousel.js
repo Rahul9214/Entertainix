@@ -56,7 +56,7 @@ export default function Carousel() {
             justifyContent: "center",
             alignItems: "center",
             "&::before": {
-              content: '"HEADLIGHTS OF TODAY ⭐ HEADLIGHTS OF TODAY ⭐ HEADLIGHTS OF TODAY ⭐ HEADLIGHTS OF TODAY"',
+              content: '"HEADLINES OF TODAY ⭐ HEADLINES OF TODAY ⭐ HEADLINES OF TODAY ⭐ HEADLINES OF TODAY"',
               color: "#fff",
               fontSize: 24,
               position: "absolute",
@@ -80,7 +80,7 @@ export default function Carousel() {
             justifyContent: "center",
             alignItems: "center",
             "&::before": {
-              content: '"HEADLIGHTS OF TODAY ⭐ HEADLIGHTS OF TODAY ⭐ HEADLIGHTS OF TODAY ⭐ HEADLIGHTS OF TODAY"',
+              content: '"HEADLINES OF TODAY ⭐ HEADLINES OF TODAY ⭐ HEADLINES OF TODAY ⭐ HEADLINES OF TODAY"',
               color: "#fff",
               fontSize: 24,
               position: "absolute",
