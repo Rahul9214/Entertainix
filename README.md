@@ -43,7 +43,7 @@ To set up the project locally, follow these steps:
    
 ## Live Demo
 
-You can view the live project at the following link: [Entertainix Live Demo](https://entertainix.vercel.app/).
+You can view the live project at the following link: [Entertainix Live Demo](https://entertainix-papo.vercel.app/).
 
 
 
